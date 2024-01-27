@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791126844053",
+    "project_id": "internshipchat-cae66",
+    "storage_bucket": "internshipchat-cae66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791126844053:android:01702edb39492a3946b19c",
+        "android_client_info": {
+          "package_name": "com.example.internship_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEm8_KCK8eFg_N87ihXBOSB4d4J15kRaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
