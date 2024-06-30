@@ -147,7 +147,10 @@ class _LoginPageState extends State<LoginPage> {
           CupertinoButton(
               child: const Text(
                 "Sign In",
-                style: TextStyle(fontWeight: FontWeight.w600, fontSize: 16,color: Colors.blue),
+                style: TextStyle(
+                    fontWeight: FontWeight.w600,
+                    fontSize: 16,
+                    color: Colors.blue),
               ),
               onPressed: () {
                 Navigator.push(context, MaterialPageRoute(builder: (context) {

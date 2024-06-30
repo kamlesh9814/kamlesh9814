@@ -44,9 +44,7 @@ dependencies:
   uuid: ^4.3.3
   flutter_launcher_icons: ^0.13.1
   cached_network_image: ^3.3.0
-  flutter_riverpod: ^2.4.9
-  dio: ^5.4.0
-  archive: ^3.1.2
+
 
 
 dev_dependencies:
